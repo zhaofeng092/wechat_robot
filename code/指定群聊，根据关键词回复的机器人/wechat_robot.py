@@ -33,6 +33,32 @@ def print_messages(msg):
         print(msg)
 
 
+import xlrd
+
+def read_excel(path):
+    
+
+    
+    #打开文件
+    data = xlrd.open_workbook(r'testExcelData.xlsx')
+    
+    #获取表格数目
+    sheet1 = data.sheets()[0]
+    
+
+    #获取sheet（工作表）行（row）、列（col）数
+    nrows = sheet2.nrows   #行
+    ncols = sheet2.ncols   #列
+    
+    x_mat = []
+    y_mat = []
+    
+    for i in range(nrows):
+        print(sheet2.row_values(i))
+        x_mat.append(sheet2.row_values(i)[0])
+        y_mat.append(sheet2.row_values(i)[1])
+
+
 
 
 # 堵塞线程，并进入 Python 命令行
