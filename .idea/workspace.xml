@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93a0d925-4541-4b1e-bdff-b96f27ce35af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/彩虹屁版本的微信机器人/rainbow.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/彩虹屁版本的微信机器人/rainbow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/dist/wechat_robot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/exe/wechat_robot.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/dist/关键词.xls" beforeDir="false" afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/dist/关键词.xls" afterDir="false" />
-    </list>
+    <list default="true" id="93a0d925-4541-4b1e-bdff-b96f27ce35af" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +41,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_auto_office" />
     <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workplace\code\wechat_robot\exe" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.wechat_robot">
     <configuration name="excel_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -138,30 +137,30 @@
       <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state x="534" y="232" key="#com.intellij.fileTypes.FileTypeChooser/105.0.1431.864@105.0.1431.864" timestamp="1609929622967" />
-    <state x="293" y="236" key="FileChooserDialogImpl" timestamp="1609928136768">
+    <state x="293" y="236" key="FileChooserDialogImpl" timestamp="1609934044579">
       <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state x="-1614" y="78" key="FileChooserDialogImpl/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924507448" />
-    <state x="293" y="236" key="FileChooserDialogImpl/105.0.1431.864@105.0.1431.864" timestamp="1609928136768" />
-    <state width="1411" height="224" key="GridCell.Tab.0.bottom" timestamp="1609929515795">
+    <state x="293" y="236" key="FileChooserDialogImpl/105.0.1431.864@105.0.1431.864" timestamp="1609934044579" />
+    <state width="1411" height="224" key="GridCell.Tab.0.bottom" timestamp="1609934045614">
       <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state width="885" height="274" key="GridCell.Tab.0.bottom/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924508377" />
-    <state width="1411" height="224" key="GridCell.Tab.0.bottom/105.0.1431.864@105.0.1431.864" timestamp="1609929515795" />
-    <state width="1411" height="224" key="GridCell.Tab.0.center" timestamp="1609929515795">
+    <state width="1411" height="224" key="GridCell.Tab.0.bottom/105.0.1431.864@105.0.1431.864" timestamp="1609934045614" />
+    <state width="1411" height="224" key="GridCell.Tab.0.center" timestamp="1609934045614">
       <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state width="885" height="274" key="GridCell.Tab.0.center/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924508376" />
-    <state width="1411" height="224" key="GridCell.Tab.0.center/105.0.1431.864@105.0.1431.864" timestamp="1609929515795" />
-    <state width="1411" height="224" key="GridCell.Tab.0.left" timestamp="1609929515795">
+    <state width="1411" height="224" key="GridCell.Tab.0.center/105.0.1431.864@105.0.1431.864" timestamp="1609934045614" />
+    <state width="1411" height="224" key="GridCell.Tab.0.left" timestamp="1609934045614">
       <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state width="885" height="274" key="GridCell.Tab.0.left/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924508376" />
-    <state width="1411" height="224" key="GridCell.Tab.0.left/105.0.1431.864@105.0.1431.864" timestamp="1609929515795" />
-    <state width="1411" height="224" key="GridCell.Tab.0.right" timestamp="1609929515795">
+    <state width="1411" height="224" key="GridCell.Tab.0.left/105.0.1431.864@105.0.1431.864" timestamp="1609934045614" />
+    <state width="1411" height="224" key="GridCell.Tab.0.right" timestamp="1609934045614">
       <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state width="885" height="274" key="GridCell.Tab.0.right/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924508376" />
-    <state width="1411" height="224" key="GridCell.Tab.0.right/105.0.1431.864@105.0.1431.864" timestamp="1609929515795" />
+    <state width="1411" height="224" key="GridCell.Tab.0.right/105.0.1431.864@105.0.1431.864" timestamp="1609934045614" />
   </component>
 </project>
