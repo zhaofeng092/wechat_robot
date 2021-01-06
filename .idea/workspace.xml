@@ -20,28 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93a0d925-4541-4b1e-bdff-b96f27ce35af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/Tree-02.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/warn-wechat_robot.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/wechat_robot.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/xref-wechat_robot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/dist/wechat_robot.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/wechat_robot.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/wechat_robot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wechat_robot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/excel_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/excel_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/wechat_robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/wechat_robot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/关键词.xls" beforeDir="false" afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/关键词.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/彩虹屁版本的微信机器人/rainbow.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/彩虹屁版本的微信机器人/rainbow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/dist/wechat_robot.exe" beforeDir="false" afterPath="$PROJECT_DIR$/exe/wechat_robot.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/dist/关键词.xls" beforeDir="false" afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/dist/关键词.xls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
