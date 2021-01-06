@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="93a0d925-4541-4b1e-bdff-b96f27ce35af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/keywords_reply.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/keywords_reply.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/warn-wechat_robot.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/wechat_robot.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/build/wechat_robot/xref-wechat_robot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/dist/wechat_robot.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/wechat_robot.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wechat_robot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wechat_robot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/excel_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/excel_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/wechat_robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/wechat_robot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/关键词.xls" beforeDir="false" afterPath="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/关键词.xls" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,16 +57,17 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.wechat_robot">
     <configuration name="excel_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wechat_robot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,24 +90,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wechat_robot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="wechat_robot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人/wechat_robot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wechat_robot" />
         <item itemvalue="Python.excel_test" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -87,32 +136,49 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1614" y="78" key="FileChooserDialogImpl" timestamp="1609924507448">
-      <screen x="-1858" y="-217" width="1858" height="1080" />
+    <state x="534" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609929622967">
+      <screen x="105" y="0" width="1431" height="864" />
+    </state>
+    <state x="534" y="232" key="#com.intellij.fileTypes.FileTypeChooser/105.0.1431.864@105.0.1431.864" timestamp="1609929622967" />
+    <state x="293" y="236" key="FileChooserDialogImpl" timestamp="1609928136768">
+      <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state x="-1614" y="78" key="FileChooserDialogImpl/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924507448" />
-    <state width="885" height="274" key="GridCell.Tab.0.bottom" timestamp="1609924508377">
-      <screen x="-1858" y="-217" width="1858" height="1080" />
+    <state x="293" y="236" key="FileChooserDialogImpl/105.0.1431.864@105.0.1431.864" timestamp="1609928136768" />
+    <state width="1411" height="224" key="GridCell.Tab.0.bottom" timestamp="1609929515795">
+      <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state width="885" height="274" key="GridCell.Tab.0.bottom/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924508377" />
-    <state width="885" height="274" key="GridCell.Tab.0.center" timestamp="1609924508376">
-      <screen x="-1858" y="-217" width="1858" height="1080" />
+    <state width="1411" height="224" key="GridCell.Tab.0.bottom/105.0.1431.864@105.0.1431.864" timestamp="1609929515795" />
+    <state width="1411" height="224" key="GridCell.Tab.0.center" timestamp="1609929515795">
+      <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state width="885" height="274" key="GridCell.Tab.0.center/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924508376" />
-    <state width="885" height="274" key="GridCell.Tab.0.left" timestamp="1609924508376">
-      <screen x="-1858" y="-217" width="1858" height="1080" />
+    <state width="1411" height="224" key="GridCell.Tab.0.center/105.0.1431.864@105.0.1431.864" timestamp="1609929515795" />
+    <state width="1411" height="224" key="GridCell.Tab.0.left" timestamp="1609929515795">
+      <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state width="885" height="274" key="GridCell.Tab.0.left/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924508376" />
-    <state width="885" height="274" key="GridCell.Tab.0.right" timestamp="1609924508376">
-      <screen x="-1858" y="-217" width="1858" height="1080" />
+    <state width="1411" height="224" key="GridCell.Tab.0.left/105.0.1431.864@105.0.1431.864" timestamp="1609929515795" />
+    <state width="1411" height="224" key="GridCell.Tab.0.right" timestamp="1609929515795">
+      <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state width="885" height="274" key="GridCell.Tab.0.right/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924508376" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/wechat_robot$excel_test.coverage" NAME="excel_test Coverage Results" MODIFIED="1609924487562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/指定群聊，根据关键词回复的机器人" />
+    <state width="1411" height="224" key="GridCell.Tab.0.right/105.0.1431.864@105.0.1431.864" timestamp="1609929515795" />
   </component>
 </project>
