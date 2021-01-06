@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93a0d925-4541-4b1e-bdff-b96f27ce35af" name="Default Changelist" comment="" />
+    <list default="true" id="93a0d925-4541-4b1e-bdff-b96f27ce35af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,6 +130,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -137,11 +140,11 @@
       <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state x="534" y="232" key="#com.intellij.fileTypes.FileTypeChooser/105.0.1431.864@105.0.1431.864" timestamp="1609929622967" />
-    <state x="293" y="236" key="FileChooserDialogImpl" timestamp="1609934044579">
+    <state x="293" y="236" key="FileChooserDialogImpl" timestamp="1609935735742">
       <screen x="105" y="0" width="1431" height="864" />
     </state>
     <state x="-1614" y="78" key="FileChooserDialogImpl/0.0.1366.738/-1858.-217.1858.1080@-1858.-217.1858.1080" timestamp="1609924507448" />
-    <state x="293" y="236" key="FileChooserDialogImpl/105.0.1431.864@105.0.1431.864" timestamp="1609934044579" />
+    <state x="293" y="236" key="FileChooserDialogImpl/105.0.1431.864@105.0.1431.864" timestamp="1609935735742" />
     <state width="1411" height="224" key="GridCell.Tab.0.bottom" timestamp="1609934045614">
       <screen x="105" y="0" width="1431" height="864" />
     </state>
