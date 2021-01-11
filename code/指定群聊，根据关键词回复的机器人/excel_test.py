@@ -8,7 +8,7 @@ def get_reply(content):
     row = sheet.nrows  # 一共有多少行
     reply = '-----'
     for r in range(1, row):
-        print(sheet.cell(r, 0).value)
+        print(sheet.cell(r, 1).value)
         if sheet.cell(r, 0).value in content:
             reply = sheet.cell(r, 2).value
     return reply
